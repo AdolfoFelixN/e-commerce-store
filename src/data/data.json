@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Camisa De Trabajo De Mujer Con Botones De Rayas Y Estampados",
+    "image": "https://img.ltwebstatic.com/images3_pi/2023/09/07/9c/1694071915ecf818c1b254942af1c290bee8ddc795_thumbnail_900x.webp",
+    "category": "woman",
+    "price": 270.0
+  },
+  {
+    "id": 2,
+    "title": "Camisa De Manga Larga unicolor Con Cuello De Pie Para Hombre Para Primavera Y Otoño",
+    "image": "https://img.ltwebstatic.com/images3_pi/2024/03/22/8e/1711086779e37a18ec4d01387014689a5b31495f00_thumbnail_900x.webp",
+    "category": "men",
+    "price": 244.0
+  },
+  {
+    "id": 3,
+    "title": "Top sin mangas informal y holgado de mujer embarazada con rayas, para el verano",
+    "image": "https://img.ltwebstatic.com/images3_pi/2024/06/03/79/1717378513d61979026c1cc789b282e862e72da3d2_thumbnail_900x.webp",
+    "category": "woman",
+    "price": 148.0
+  },
+  {
+    "id": 4,
+    "title": "Camisa sólida para hombre con botones para atuendos de playa",
+    "image": "https://img.ltwebstatic.com/images3_pi/2023/05/03/168311744911a1a0b3eb5cd95ebaab78a8cd285bbb_thumbnail_900x.webp",
+    "category": "men",
+    "price": 289.34
+  },
+  {
+    "id": 5,
+    "title": "Camisa unicolor con botón",
+    "image": "https://img.ltwebstatic.com/images3_pi/2023/05/01/1682904615a6bde37dfc26b49b65634b962a348ecd_thumbnail_900x.webp",
+    "category": "men",
+    "price": 111.0
+  },
+  {
+    "id": 6,
+    "title": "Camisa unicolor de manga murciélago con botón delantero",
+    "image": "https://img.ltwebstatic.com/images3_pi/2023/10/19/b5/1697697598603e524373f22096ffee7737681a1385_thumbnail_900x.webp",
+    "category": "woman",
+    "price": 218.25
+  },
+  {
+    "id": 7,
+    "title": "Zapatillas unisex con una banda de estilo japonés informal, de moda y cómodo para estudiantes; tipo Birkenstocks",
+    "image": "https://img.ltwebstatic.com/images3_pi/2023/12/11/e4/1702286597dcedf6506b68f839b414107b76d3993e_thumbnail_900x.webp",
+    "category": "shoes",
+    "price": 577.00
+  },
+  {
+    "id": 8,
+    "title": "Vestido corto ajustado casual y de trabajo con camisa polo de cuello cuadrado para mujeres embarazadas",
+    "image": "https://img.ltwebstatic.com/images3_pi/2024/05/21/95/17162880331b8e013d79006bffba1a8567e0611631_thumbnail_900x.webp",
+    "category": "woman",
+    "price": 411.0
+  },
+  {
+    "id": 9,
+    "title": "Sandalias planas de cuero estilo nuevo cuadrado del dedo del pie para mujer en tallas grandes para verano 2024",
+    "image": "https://img.ltwebstatic.com/images3_spmp/2023/07/27/1690441358b7e83cf15f7c885a0af5009ec610461e_thumbnail_900x.webp",
+    "category": "shoes",
+    "price": 84.00
+  },
+  {
+    "id": 10,
+    "title": "Motocross Mountain Enduro Ropa De Bicicleta De Montaña, Camiseta De Descenso De Moto",
+    "image": "https://img.ltwebstatic.com/images3_spmp/2023/12/15/0a/170262992013d7d35d6d540acb45baf79944b1a97b_thumbnail_900x.webp",
+    "category": "sports",
+    "price": 199.00
+  },
+  {
+    "id": 11,
+    "title": "Jersey Monterrey Local y Visita Nuevo 2023-2024",
+    "image": "https://img.ltwebstatic.com/images3_spmp/2023/12/27/75/17036409962c97f99c0ce73d7c6ab8892ff44dff4d_thumbnail_900x.webp",
+    "category": "sports",
+    "price": 649.00
+  },
+  {
+    "id": 12,
+    "title": "Camisa tejida casual de verano para hombres con textura",
+    "image": "https://img.ltwebstatic.com/images3_pi/2024/03/27/83/17115432977ad97520a787b0b5abe2b4b8318690ae_thumbnail_900x.webp",
+    "category": "men",
+    "price": 183.0
+  },
+  {
+    "id": 13,
+    "title": "Zapatillas de casa para mujer, para interiores en verano, antideslizantes y anti-olor",
+    "image": "https://img.ltwebstatic.com/images3_spmp/2024/03/23/94/17111590724fca5ec2d54f502314200ee92a9a1d89_thumbnail_900x.webp",
+    "category": "shoes",
+    "price": 33.00
+  },
+  {
+    "id": 14,
+    "title": "Gorra de béisbol unisex Y2K bordada BROOKLYN NEW YORK para actividades diarias al aire libre",
+    "image": "https://img.ltwebstatic.com/images3_pi/2022/10/13/166563816603d3d85f9bb071d1feef97217e39727d_thumbnail_900x.webp",
+    "category": "accesories",
+    "price": 95.23
+  },
+  {
+    "id": 15,
+    "title": "Zapatos De Agua Unisex, Zapatos De Piscina De Playa",
+    "image": "https://img.ltwebstatic.com/images3_pi/2023/11/29/99/1701188628cff904c3039aa7178ae7814de6cbae7b_thumbnail_900x.webp",
+    "category": "shoes",
+    "price": 359.00
+  },
+  {
+    "id": 16,
+    "title": "1 pieza Pulsera para hombre con amuleto clásico de trébol de diseño de moda",
+    "image": "https://img.ltwebstatic.com/images3_spmp/2024/05/18/b8/171600726825da2923e1eea8e889003b006b14445b_thumbnail_900x.webp",
+    "category": "accesories",
+    "price": 48.98
+  },
+  {
+    "id": 17,
+    "title": "Jersey Tigres nuevo local y visita 2023-2024",
+    "image": "https://img.ltwebstatic.com/images3_spmp/2023/10/18/39/1697598083f1e16b3f7972d6547de53dffb8bf26c7_thumbnail_900x.webp",
+    "category": "sports",
+    "price": 599.00
+  },
+  {
+    "id": 18,
+    "title": "JERSEY MEXICO VERDE 56",
+    "image": "https://img.ltwebstatic.com/images3_spmp/2024/04/19/20/1713541914879fceb7cc9dcc6d6847d3b8251ee38b_thumbnail_900x.webp",
+    "category": "sports",
+    "price": 370.00
+  },
+  {
+    "id": 19,
+    "title": "1 Par De Pendientes De Metal De Estilo Europeo Y Americano Exagerado Con Diseño Floral ",
+    "image": "https://img.ltwebstatic.com/images3_spmp/2023/09/25/9e/1695623012f9e8a9d1bc106c50ca50df3b402fb9d6_thumbnail_900x.webp",
+    "category": "accesories",
+    "price": 35.00
+  },
+  {
+    "id": 20,
+    "title": "Hombres Gafas De Moda Con Marco Redondo Para Todas Las Temporadas Al Aire Libre, Estilo Vintage",
+    "image": "https://img.ltwebstatic.com/images3_pi/2022/07/20/16582996971ff69ff03d9cbe1ae787917a87123106_thumbnail_900x.webp",
+    "category": "accesories",
+    "price": 45.00
+  }
+]
